@@ -11,4 +11,4 @@ The following share takes you to my latest Disk research on ChatGPT. The researc
 
 https://chatgpt.com/g/g-p-6a21d50e4c588191bf8ad84a72c1973d-phaistos-disk-cleanup/project
 
-PS I started on deciphering the Disk as a hobby but also because it resembled my 4dAbstractions Reality simulating software.
+PS I started deciphering the Disk as a hobby but also because it resembled my 4dAbstractions Reality-simulating software.
