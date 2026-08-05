@@ -7,7 +7,7 @@ Overwhelmingly, the mystery was being caused by Lines on the Disk missing due to
 
 The Disk is actually the basis of a HITL (Human-In-The-Loop) Computer using a computer language based on the Minoan Linear A language. It probably models a Minoan Assembly Line/Circle that manufactured Shields for Minoans and can be modified to manufacture anything.
 
-The following share takes you to my latest Disk research on ChatGPT. THhe research was meant to be clearing up my original theory and turned out to almost redo the original theory.
+The following share takes you to my latest Disk research on ChatGPT. The research was meant to be clearing up my original theory and turned out to almost redo the original theory.
 
 https://chatgpt.com/g/g-p-6a21d50e4c588191bf8ad84a72c1973d-phaistos-disk-cleanup/project
 
