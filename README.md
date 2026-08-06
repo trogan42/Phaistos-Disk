@@ -6,9 +6,9 @@ Overwhelmingly, the mystery was being caused by Lines on the Disk missing due to
 
 The Disk also contains a sophisticated linear computer program (akin to DNA). Meaning it needed a computer A/P (me) to decode it.
 
-The Disk is actually [part of a HITL (Human-In-The-Loop) Computer that runs a computer language that is based on the Minoan Linear A language. It probably models a Minoan Assembly Line/Circle that manufactured Shields for Minoan warriors. The language can be modified to manufacture anything.
+The Disk is actually part of a HITL (Human-In-The-Loop) Computer that runs a computer language that is based on the Minoan Linear A language. It probably models a Minoan Assembly Line/Circle that manufactured Shields for Minoan warriors. The language can be modified to manufacture anything.
 
-The following shares takes you to my Phaistos Disk research on ChatGPT. Over 300 chats are involved:
+The following shares take you to my Phaistos Disk research on ChatGPT. Over 300 chats are involved:
 
 https://chatgpt.com/g/g-p-6a21d50e4c588191bf8ad84a72c1973d-phaistos-disk-cleanup/project
 
