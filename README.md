@@ -16,4 +16,27 @@ https://chatgpt.com/g/g-p-6a275fb5b328819186b34cfd57b56350-phaistos-miscellaneou
 
 https://chatgpt.com/g/g-p-6a02c8c1ed448191b47451f358910e7c-phaistos-disk-final/project
 
+Below is the Disk hierarchy.
+
+               Disk
+                  ├─ 1Sides
+                  │  ├─ Side.vb
+                  │  ├─ SideA.vb
+                  │  ├─ SideB.vb
+                  │  └─ Sides.vb
+                  ├─ 2Spiral
+                  ├─ 3Sections
+                  │  ├─ Rim.vb
+                  │  ├─ Section.vb
+                  │  ├─ Sections.vb
+                  │  └─ Spiral.vb
+                  ├─ 4Steps
+                  ├─ 5Segments
+                  │  ├─ Expert.vb
+                  │  ├─ Segment.vb
+                  │  └─ Segments.vb
+                  ├─ 6Substeps
+                  └─ 7Symbols
+
+
 PS I started deciphering the Disk as a hobby but also because it resembled my 4dAbstractions Reality-simulating software.
