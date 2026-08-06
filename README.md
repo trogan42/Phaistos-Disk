@@ -16,7 +16,7 @@ https://chatgpt.com/g/g-p-6a275fb5b328819186b34cfd57b56350-phaistos-miscellaneou
 
 https://chatgpt.com/g/g-p-6a02c8c1ed448191b47451f358910e7c-phaistos-disk-final/project
 
-Below is the Disk hierarchy.
+Below is a brief look at the data on the Disk. 
 
                Disk
                   ├─ 1Sides
